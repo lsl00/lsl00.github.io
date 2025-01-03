@@ -1,14 +1,15 @@
 [
+    
+    {
+        "name" : "vpn",
+        "title" : "自行搭建VPN服务器的科学上网指南",
+        "date" : "Jan 04,2025",
+        "file" : "./blogs/vpn.typ"
+    },
     {
         "name" : "dufs_webdav",
         "title" : "How to simply deploy a WebDav server",
         "date" : "Jan 03,2025",
         "file" : "./blogs/dufs_webdav.typ"
-    },
-    {
-        "name" : "vpn",
-        "title" : "How to add your own VPN?",
-        "date" : "Jan 04,2025",
-        "file" : "./blogs/vpn.typ"
     }
 ]
